@@ -1,164 +1,45 @@
-# 👩🏻‍💻 Vinicius Teixeira
+# Vinícius Teixeira
 
-**`Engenheiro de Software | Desenvolvimento Full-Stack | Especialista em PHP 🚀`**
+**Desenvolvedor de Software | Backend PHP | Full Stack PHP/JavaScript**
 
-✅ Especialista em todo o ciclo de desenvolvimento – Da concepção e planejamento do projeto à implementação, incluindo prototipagem, testes e deploy.
+Desenvolvedor com experiência profissional desde 2018 na criação, manutenção e modernização de sistemas web. Atuação em sistemas acadêmicos, administrativos e hospitalares, integrações com APIs, automação de processos e sustentação de aplicações em produção.
 
-✅ Resolução de problemas & Arquitetura de software – Raciocínio analítico, experiência em estruturas escaláveis, MVC e microsserviços.
+## Foco profissional
 
-✅ Proficiência em tecnologias modernas – Domínio de JavaScript, Python, PHP, Java e frameworks como React, Node.js, Laravel/CakePHP e Spring.
+- Desenvolvimento backend com **PHP**, **CakePHP** e **Laravel**
+- Aplicações full stack com **JavaScript**, **Node.js** e **React**
+- APIs, integrações, automações e processamento de webhooks
+- Bancos relacionais com **MySQL**, **PostgreSQL** e **Oracle**
+- Ambientes com **Docker**, Git e práticas de testes e deploy
 
-✅ Bancos de dados & Cloud Computing – Experiência com SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Firebase) e plataformas em nuvem como AWS.
+## Tecnologias
 
-✅ Controle de versão & Colaboração – Vivência com Git/GitHub/GitLab para trabalho em equipe e fluxos de CI/CD.
+**Uso profissional e recorrente:** PHP, CakePHP, JavaScript, Node.js, React, MySQL, Oracle, Git e Docker.
 
-🔹 Apaixonado por inovação, otimização de performance e entrega de soluções de alto impacto para clientes.
+**Conhecimento complementar:** Laravel, PostgreSQL, Python, Java, Spring, MongoDB, Redis, AWS e CI/CD.
 
+## Projetos em destaque
+
+### [ClientPay](https://github.com/ViniciusCTeixeira/ClientPay)
+Sistema web para gestão de clientes e pagamentos recorrentes, desenvolvido com PHP 8.1 e SQLite. Inclui autenticação, CRUD, automação de cobranças, histórico de pagamentos e estrutura de migrações.
+
+### [Webhook Service](https://github.com/ViniciusCTeixeira/webhook-service)
+Ferramenta em Node.js para captura, inspeção e reenvio de webhooks. Possui atualização em tempo real, filtros, replay de requisições e importação e exportação de dados.
+
+## Experiência aplicada
+
+- Evolução e sustentação de sistemas utilizados por áreas acadêmicas, administrativas e hospitalares
+- Desenvolvimento de soluções de mensageria e automação com integrações de terceiros
+- Manutenção de aplicações legadas e implementação gradual de melhorias técnicas
+- Investigação de falhas, correção de problemas e apoio a usuários e equipes internas
+
+## Atualmente
+
+Aprimorando arquitetura de software, testes automatizados, APIs, integração contínua e desenvolvimento de aplicações escaláveis.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CakePHP" 
-    title="CakePHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cakephp/cakephp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-fast.vercel.app/api/?username=ViniciusCTeixeira&show_icons=true&theme=radical" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ViniciusCTeixeira&show_icons=true&theme=radical" 
-  />
-
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/?username=ViniciusCTeixeira&show_icons=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ViniciusCTeixeira&layout=compact" alt="Linguagens mais utilizadas" />
 </p>
