@@ -10,33 +10,32 @@ Desenvolvedor com experiência profissional desde 2018 na criação, manutençã
 - Aplicações full stack com **JavaScript**, **Node.js** e **React**
 - APIs REST, integrações, automações e processamento de webhooks
 - Bancos relacionais com **MySQL**, **PostgreSQL**, **Oracle** e **SQLite**
-- Ambientes com **Docker**, Git, testes automatizados e deploy
+- Ambientes com **Docker**, Git, Redis, armazenamento compatível com S3, testes e deploy
 
 ## Tecnologias
 
 **Uso profissional e recorrente:** PHP, CakePHP, JavaScript, Node.js, React, MySQL, Oracle, Git e Docker.
 
-**Conhecimento complementar e aplicado em projetos:** Laravel, PostgreSQL, SQLite, MongoDB, Redis, AWS S3, WebSockets, Python, Java, Spring e CI/CD.
+**Conhecimento complementar e aplicado em projetos:** Laravel, PostgreSQL, SQLite, MongoDB, Redis, AWS S3, WebSockets, Bootstrap, PHPUnit, Vitest, Python, Java, Spring e CI/CD.
 
 ## Portfólio de projetos
 
+Os projetos abaixo possuem README preenchido e são considerados na manutenção deste portfólio.
+
 ### [ClientPay](https://github.com/ViniciusCTeixeira/ClientPay)
-Sistema em PHP 8.1 e SQLite para gestão de clientes, sites e pagamentos recorrentes, com autenticação, CRUD, histórico, automações e migrações de banco.
+Solução em PHP, SQLite, Bootstrap e JavaScript para organizar clientes, sites, contratos recorrentes e cobranças. Inclui mensalidades em lote, histórico de reajustes, controle de recebimentos, painel financeiro, exportação CSV e mensagens personalizadas.
 
 ### [Webhook Service](https://github.com/ViniciusCTeixeira/webhook-service)
-Aplicação Node.js para captura, inspeção e reenvio de webhooks, com monitoramento em tempo real, filtros, replay e exportação de sessões.
+Aplicação Node.js para captura, inspeção e reenvio de webhooks, com monitoramento em tempo real, persistência, filtros, pesquisa, replay e importação ou exportação de sessões.
 
-### WA Service
-Projeto privado em Node.js e Express com Redis, AWS S3, WebSockets, tarefas agendadas e testes automatizados.
+### WA Service — projeto privado
+Serviço em Node.js e Express com Redis, WebSockets, armazenamento compatível com S3, processamento de mídia e testes automatizados.
 
-### teclysi.com
-Projeto privado em PHP 8.3 e CakePHP 4 com integrações externas, armazenamento em nuvem, migrações e testes.
+### Hadach — projeto privado
+Aplicação em PHP 8.3, CakePHP 4.5, MySQL, Bootstrap e JavaScript, com fluxos operacionais, relatórios e integrações.
 
-### festy.teclysi.com
-Projeto privado em PHP 8.3 e CakePHP 4 com geração de planilhas, integração externa, migrações e testes.
-
-### Hadach
-Projeto privado em PHP 8.3 e CakePHP 4 com processamento de imagens, geração de planilhas, migrações e testes.
+### adm.teclysi.com — projeto privado
+Aplicação baseada em PHP e CakePHP 4, com documentação de configuração e execução local.
 
 ## Experiência aplicada
 
