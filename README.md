@@ -29,9 +29,6 @@ Aplicação Node.js para captura, inspeção e reenvio de webhooks, com monitora
 ### WA Service
 Projeto privado em Node.js e Express com Redis, AWS S3, WebSockets, tarefas agendadas e testes automatizados.
 
-### adm.teclysi.com
-Projeto privado em PHP 8.3 e CakePHP 4 com integrações externas, armazenamento em nuvem, migrações e testes.
-
 ### teclysi.com
 Projeto privado em PHP 8.3 e CakePHP 4 com integrações externas, armazenamento em nuvem, migrações e testes.
 
