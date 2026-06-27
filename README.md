@@ -8,34 +8,50 @@ Desenvolvedor com experiência profissional desde 2018 na criação, manutençã
 
 - Desenvolvimento backend com **PHP**, **CakePHP** e **Laravel**
 - Aplicações full stack com **JavaScript**, **Node.js** e **React**
-- APIs, integrações, automações e processamento de webhooks
-- Bancos relacionais com **MySQL**, **PostgreSQL** e **Oracle**
-- Ambientes com **Docker**, Git e práticas de testes e deploy
+- APIs REST, integrações, automações e processamento de webhooks
+- Bancos relacionais com **MySQL**, **PostgreSQL**, **Oracle** e **SQLite**
+- Ambientes com **Docker**, Git, testes automatizados e deploy
 
 ## Tecnologias
 
 **Uso profissional e recorrente:** PHP, CakePHP, JavaScript, Node.js, React, MySQL, Oracle, Git e Docker.
 
-**Conhecimento complementar:** Laravel, PostgreSQL, Python, Java, Spring, MongoDB, Redis, AWS e CI/CD.
+**Conhecimento complementar e aplicado em projetos:** Laravel, PostgreSQL, SQLite, MongoDB, Redis, AWS S3, WebSockets, Python, Java, Spring e CI/CD.
 
-## Projetos em destaque
+## Portfólio de projetos
 
 ### [ClientPay](https://github.com/ViniciusCTeixeira/ClientPay)
-Sistema web para gestão de clientes e pagamentos recorrentes, desenvolvido com PHP 8.1 e SQLite. Inclui autenticação, CRUD, automação de cobranças, histórico de pagamentos e estrutura de migrações.
+Sistema em PHP 8.1 e SQLite para gestão de clientes, sites e pagamentos recorrentes, com autenticação, CRUD, histórico, automações e migrações de banco.
 
 ### [Webhook Service](https://github.com/ViniciusCTeixeira/webhook-service)
-Ferramenta em Node.js para captura, inspeção e reenvio de webhooks. Possui atualização em tempo real, filtros, replay de requisições e importação e exportação de dados.
+Aplicação Node.js para captura, inspeção e reenvio de webhooks, com monitoramento em tempo real, filtros, replay e exportação de sessões.
+
+### WA Service
+Projeto privado em Node.js e Express com Redis, AWS S3, WebSockets, tarefas agendadas e testes automatizados.
+
+### adm.teclysi.com
+Projeto privado em PHP 8.3 e CakePHP 4 com integrações externas, armazenamento em nuvem, migrações e testes.
+
+### teclysi.com
+Projeto privado em PHP 8.3 e CakePHP 4 com integrações externas, armazenamento em nuvem, migrações e testes.
+
+### festy.teclysi.com
+Projeto privado em PHP 8.3 e CakePHP 4 com geração de planilhas, integração externa, migrações e testes.
+
+### Hadach
+Projeto privado em PHP 8.3 e CakePHP 4 com processamento de imagens, geração de planilhas, migrações e testes.
 
 ## Experiência aplicada
 
 - Evolução e sustentação de sistemas utilizados por áreas acadêmicas, administrativas e hospitalares
-- Desenvolvimento de soluções de mensageria e automação com integrações de terceiros
+- Desenvolvimento de soluções de integrações, pagamentos, webhooks e automação
 - Manutenção de aplicações legadas e implementação gradual de melhorias técnicas
 - Investigação de falhas, correção de problemas e apoio a usuários e equipes internas
+- Desenvolvimento de projetos completos, da modelagem ao deploy e à sustentação
 
 ## Atualmente
 
-Aprimorando arquitetura de software, testes automatizados, APIs, integração contínua e desenvolvimento de aplicações escaláveis.
+Aprimorando arquitetura de software, testes automatizados, APIs, integração contínua, observabilidade e desenvolvimento de aplicações escaláveis.
 
 ---
 
