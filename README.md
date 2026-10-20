@@ -14,19 +14,21 @@ Desenvolvedor com experiência profissional desde 2018 na criação, manutençã
 
 ## Portfólio de projetos
 
-Somente projetos com README preenchido são considerados. As descrições abaixo foram elaboradas exclusivamente a partir da documentação de cada repositório.
+### Projetos públicos
 
-### [ClientPay](https://github.com/ViniciusCTeixeira/ClientPay)
-Solução de gestão comercial para agências digitais, freelancers e pequenos negócios que administram sites e serviços recorrentes. Centraliza clientes, contratos, reajustes, mensalidades, recebimentos e mensagens de cobrança, com painel financeiro, filtros, exportação CSV e abertura de conversas no WhatsApp. Foi construída em PHP, Bootstrap e SQLite e possui proteção CSRF, migrações automáticas, testes de regressão e workflow de integração contínua.
+- **[Webhook Service](https://github.com/ViniciusCTeixeira/webhook-service)** — serviço Node.js para capturar, inspecionar, filtrar, reproduzir e exportar webhooks, com atualização da interface em tempo real via WebSocket.
+- **[Docker Web Edge](https://github.com/ViniciusCTeixeira/docker-web-edge)** — ferramenta de linha de comando em Python para administrar um gateway Nginx compartilhado entre aplicações Docker, com rotas HTTPS, certificados, validações e rollback.
+- **[Database OS](https://github.com/ViniciusCTeixeira/database-os)** — automação de infraestrutura Docker para ambientes de desenvolvimento e produção com MySQL, PostgreSQL e Redis, incluindo scripts operacionais e configuração de rede.
+- **[Adaptive Backend Engineer Roadmap](https://github.com/ViniciusCTeixeira/backend-engineer-roadmap)** — plano público e reutilizável de 52 semanas para evolução em engenharia backend, com práticas diárias, avaliações, simulados e projetos progressivos.
+- **[WAHA + n8n Automation](https://github.com/ViniciusCTeixeira/waha-n8n-automation)** — stack Docker para automações com WAHA, n8n, PostgreSQL, Redis e Caddy, incluindo HTTPS, implantação, rotinas de segurança e backup.
+- **[Barões MC Digital](https://github.com/ViniciusCTeixeira/baroesmc.com)** — plataforma PHP e SQLite com site institucional e painel administrativo para clubes e associações. Código publicamente visível com direitos reservados sobre o código original e as marcas; consulte a licença do projeto.
 
-### [Webhook Service](https://github.com/ViniciusCTeixeira/webhook-service)
-Aplicação Node.js para capturar e exibir requisições HTTP em tempo real. Permite inspecionar método, cabeçalhos, corpo e horário, manter sessões com persistência, pesquisar e filtrar registros, repetir requisições, copiar dados como JSON ou cURL e importar ou exportar sessões. A interface é atualizada por WebSocket.
+### Projetos privados — visão geral
 
-### WA Service — projeto privado
-Camada de integração self-hosted que transforma recursos do WhatsApp em uma API HTTP para conexão com CRMs, ERPs, plataformas de atendimento, automações, chatbots e sistemas próprios. Utiliza Node.js, Express, Baileys, Redis, webhooks, WebSockets, processamento de mídia e armazenamento compatível com S3, incluindo AWS S3, Cloudflare R2 e MinIO.
+- **WA Service** — API HTTP self-hosted para integrações com WhatsApp, utilizando Node.js, Express, Baileys, Redis, webhooks, WebSockets, processamento de mídia e armazenamento compatível com S3.
+- **Hadach** — plataforma CakePHP para gestão de pedidos, equipes, escalas, presença, pagamentos e faturamento, com relatórios e comunicação operacional.
 
-### Hadach — projeto privado
-Plataforma para empresas que planejam e acompanham equipes por demanda. Conecta pedidos, vagas, escalas, presença, pagamentos, faturamento, comunicação por WhatsApp, dashboards e relatórios em Excel. O README documenta uma stack com PHP 8.3, CakePHP 4.5, MySQL, Bootstrap, JavaScript e PhpSpreadsheet.
+As descrições dos projetos públicos refletem os READMEs de seus repositórios. Os projetos privados são apresentados apenas em alto nível.
 
 ## Competências demonstradas pelos projetos
 
